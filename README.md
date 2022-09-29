@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zycrasion&theme=onedark" alt="zycrasion" /></a> </p>
 
-- Im currently working on a **Multiplayer Game Using NodeJS, Typescript and Webpack**
-
-- When im bored i use my project [what to code idea grabber](https://github.com/Zycrasion/what-to-code-idea-grabber)
-
-- If want cat images use [cat image generator](https://github.com/Zycrasion/cat-image-generator)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/zycrasion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zycrasion" height="30" width="40" /></a>
