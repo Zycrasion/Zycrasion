@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Compiler/ Interpreter for a toy language<br>🌱 I’m currently learning rust and x86 assembly<br>💬 Ask me about typescript related stuff
+🔭 I’m currently working on a Compiler for Quecto<br>
 
 
 ## 🌐 Socials:
